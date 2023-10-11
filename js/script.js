@@ -1,0 +1,1 @@
+import{openMenu}from"./burger.js";import{clicksCarusel}from"./carusel.js";import{sliderHandler}from"./form-slider.js";sliderHandler(),openMenu(),clicksCarusel();
